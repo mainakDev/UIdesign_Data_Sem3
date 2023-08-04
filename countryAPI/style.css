@@ -1,0 +1,10 @@
+.displayDiv{
+    height: 200px;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+    column-gap: 30px;
+    align-items: center;
+
+}
