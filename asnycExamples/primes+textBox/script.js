@@ -33,3 +33,8 @@ document.querySelector("#generate").addEventListener("click", () => {
 document.querySelector("#reload").addEventListener("click", () => {
   document.location.reload();
 });
+
+
+  
+
+  
